@@ -7,15 +7,46 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		724A11D129B7CAB500E6F4A9 /* PlanetCollectionViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 724A11D029B7CAB500E6F4A9 /* PlanetCollectionViewController.swift */; };
+		724DBAF129B0365A00D2C75B /* PlanetTableViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 724DBAF029B0365A00D2C75B /* PlanetTableViewController.swift */; };
+		7274CE47299DA85100E56E3E /* Constants.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7274CE46299DA85100E56E3E /* Constants.swift */; };
+		72AA25DC29946B57008E5C94 /* SunViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 72AA25DB29946B57008E5C94 /* SunViewController.swift */; };
+		72AA25DE299477B1008E5C94 /* Sun.swift in Sources */ = {isa = PBXBuildFile; fileRef = 72AA25DD299477B1008E5C94 /* Sun.swift */; };
+		72AA25E029947879008E5C94 /* Quote.swift in Sources */ = {isa = PBXBuildFile; fileRef = 72AA25DF29947879008E5C94 /* Quote.swift */; };
+		72AA25E229947881008E5C94 /* Planet.swift in Sources */ = {isa = PBXBuildFile; fileRef = 72AA25E129947881008E5C94 /* Planet.swift */; };
+		72AA25E429947885008E5C94 /* Moon.swift in Sources */ = {isa = PBXBuildFile; fileRef = 72AA25E329947885008E5C94 /* Moon.swift */; };
+		72B2159429B9367F00F7C4A6 /* PlanetDetailViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 72B2159329B9367F00F7C4A6 /* PlanetDetailViewController.swift */; };
+		72B2159829BA248F00F7C4A6 /* APODViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 72B2159729BA248F00F7C4A6 /* APODViewController.swift */; };
+		72B2159A29BA3FAD00F7C4A6 /* PhotoInfoController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 72B2159929BA3FAD00F7C4A6 /* PhotoInfoController.swift */; };
+		72B2159D29BA425800F7C4A6 /* PhotoInfo.swift in Sources */ = {isa = PBXBuildFile; fileRef = 72B2159C29BA425800F7C4A6 /* PhotoInfo.swift */; };
+		72B69FB229B273750006A74E /* PlanetCollectionCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 72B69FB029B273750006A74E /* PlanetCollectionCell.swift */; };
+		72B69FB329B273750006A74E /* PlanetCollectionCell.xib in Resources */ = {isa = PBXBuildFile; fileRef = 72B69FB129B273750006A74E /* PlanetCollectionCell.xib */; };
+		72BEF5E629B0298500069497 /* PlanetCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 72BEF5E529B0298500069497 /* PlanetCell.swift */; };
 		72C20BC0298B38AD00B1A3F0 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 72C20BBF298B38AD00B1A3F0 /* AppDelegate.swift */; };
 		72C20BC2298B38AD00B1A3F0 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 72C20BC1298B38AD00B1A3F0 /* SceneDelegate.swift */; };
 		72C20BC4298B38AD00B1A3F0 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 72C20BC3298B38AD00B1A3F0 /* ViewController.swift */; };
 		72C20BC7298B38AD00B1A3F0 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 72C20BC5298B38AD00B1A3F0 /* Main.storyboard */; };
 		72C20BC9298B38AE00B1A3F0 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 72C20BC8298B38AE00B1A3F0 /* Assets.xcassets */; };
 		72C20BCC298B38AE00B1A3F0 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 72C20BCA298B38AE00B1A3F0 /* LaunchScreen.storyboard */; };
+		72C20BD4298B3E1400B1A3F0 /* ColorSet.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 72C20BD3298B3E1400B1A3F0 /* ColorSet.xcassets */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		724A11D029B7CAB500E6F4A9 /* PlanetCollectionViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PlanetCollectionViewController.swift; sourceTree = "<group>"; };
+		724DBAF029B0365A00D2C75B /* PlanetTableViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PlanetTableViewController.swift; sourceTree = "<group>"; };
+		7274CE46299DA85100E56E3E /* Constants.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Constants.swift; sourceTree = "<group>"; };
+		72AA25DB29946B57008E5C94 /* SunViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SunViewController.swift; sourceTree = "<group>"; };
+		72AA25DD299477B1008E5C94 /* Sun.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Sun.swift; sourceTree = "<group>"; };
+		72AA25DF29947879008E5C94 /* Quote.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Quote.swift; sourceTree = "<group>"; };
+		72AA25E129947881008E5C94 /* Planet.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Planet.swift; sourceTree = "<group>"; };
+		72AA25E329947885008E5C94 /* Moon.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Moon.swift; sourceTree = "<group>"; };
+		72B2159329B9367F00F7C4A6 /* PlanetDetailViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PlanetDetailViewController.swift; sourceTree = "<group>"; };
+		72B2159729BA248F00F7C4A6 /* APODViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = APODViewController.swift; sourceTree = "<group>"; };
+		72B2159929BA3FAD00F7C4A6 /* PhotoInfoController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = PhotoInfoController.swift; sourceTree = "<group>"; };
+		72B2159C29BA425800F7C4A6 /* PhotoInfo.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = PhotoInfo.swift; sourceTree = "<group>"; };
+		72B69FB029B273750006A74E /* PlanetCollectionCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PlanetCollectionCell.swift; sourceTree = "<group>"; };
+		72B69FB129B273750006A74E /* PlanetCollectionCell.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = PlanetCollectionCell.xib; sourceTree = "<group>"; };
+		72BEF5E529B0298500069497 /* PlanetCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PlanetCell.swift; sourceTree = "<group>"; };
 		72C20BBC298B38AD00B1A3F0 /* SolarSystemSwift2.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = SolarSystemSwift2.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		72C20BBF298B38AD00B1A3F0 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		72C20BC1298B38AD00B1A3F0 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -24,6 +55,7 @@
 		72C20BC8298B38AE00B1A3F0 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		72C20BCB298B38AE00B1A3F0 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		72C20BCD298B38AE00B1A3F0 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		72C20BD3298B3E1400B1A3F0 /* ColorSet.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = ColorSet.xcassets; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -37,6 +69,59 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		724A11D229B8F2C900E6F4A9 /* View Controllers */ = {
+			isa = PBXGroup;
+			children = (
+				724DBAF029B0365A00D2C75B /* PlanetTableViewController.swift */,
+				72C20BC3298B38AD00B1A3F0 /* ViewController.swift */,
+				72AA25DB29946B57008E5C94 /* SunViewController.swift */,
+				724A11D029B7CAB500E6F4A9 /* PlanetCollectionViewController.swift */,
+				72B2159329B9367F00F7C4A6 /* PlanetDetailViewController.swift */,
+				72B2159729BA248F00F7C4A6 /* APODViewController.swift */,
+			);
+			path = "View Controllers";
+			sourceTree = "<group>";
+		};
+		72B2159B29BA3FBC00F7C4A6 /* Controllers */ = {
+			isa = PBXGroup;
+			children = (
+				72B2159929BA3FAD00F7C4A6 /* PhotoInfoController.swift */,
+				724A11D229B8F2C900E6F4A9 /* View Controllers */,
+			);
+			path = Controllers;
+			sourceTree = "<group>";
+		};
+		72BEF5E729B029ED00069497 /* Views */ = {
+			isa = PBXGroup;
+			children = (
+				72C20BC5298B38AD00B1A3F0 /* Main.storyboard */,
+				72BEF5E929B02A2B00069497 /* Cells */,
+			);
+			path = Views;
+			sourceTree = "<group>";
+		};
+		72BEF5E829B02A1F00069497 /* Model */ = {
+			isa = PBXGroup;
+			children = (
+				72B2159C29BA425800F7C4A6 /* PhotoInfo.swift */,
+				72AA25DD299477B1008E5C94 /* Sun.swift */,
+				72AA25DF29947879008E5C94 /* Quote.swift */,
+				72AA25E329947885008E5C94 /* Moon.swift */,
+				72AA25E129947881008E5C94 /* Planet.swift */,
+			);
+			path = Model;
+			sourceTree = "<group>";
+		};
+		72BEF5E929B02A2B00069497 /* Cells */ = {
+			isa = PBXGroup;
+			children = (
+				72BEF5E529B0298500069497 /* PlanetCell.swift */,
+				72B69FB029B273750006A74E /* PlanetCollectionCell.swift */,
+				72B69FB129B273750006A74E /* PlanetCollectionCell.xib */,
+			);
+			path = Cells;
+			sourceTree = "<group>";
+		};
 		72C20BB3298B38AD00B1A3F0 = {
 			isa = PBXGroup;
 			children = (
@@ -58,8 +143,11 @@
 			children = (
 				72C20BBF298B38AD00B1A3F0 /* AppDelegate.swift */,
 				72C20BC1298B38AD00B1A3F0 /* SceneDelegate.swift */,
-				72C20BC3298B38AD00B1A3F0 /* ViewController.swift */,
-				72C20BC5298B38AD00B1A3F0 /* Main.storyboard */,
+				72B2159B29BA3FBC00F7C4A6 /* Controllers */,
+				72BEF5E829B02A1F00069497 /* Model */,
+				72BEF5E729B029ED00069497 /* Views */,
+				7274CE46299DA85100E56E3E /* Constants.swift */,
+				72C20BD3298B3E1400B1A3F0 /* ColorSet.xcassets */,
 				72C20BC8298B38AE00B1A3F0 /* Assets.xcassets */,
 				72C20BCA298B38AE00B1A3F0 /* LaunchScreen.storyboard */,
 				72C20BCD298B38AE00B1A3F0 /* Info.plist */,
@@ -125,7 +213,9 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				72C20BD4298B3E1400B1A3F0 /* ColorSet.xcassets in Resources */,
 				72C20BCC298B38AE00B1A3F0 /* LaunchScreen.storyboard in Resources */,
+				72B69FB329B273750006A74E /* PlanetCollectionCell.xib in Resources */,
 				72C20BC9298B38AE00B1A3F0 /* Assets.xcassets in Resources */,
 				72C20BC7298B38AD00B1A3F0 /* Main.storyboard in Resources */,
 			);
@@ -138,9 +228,23 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				72B2159429B9367F00F7C4A6 /* PlanetDetailViewController.swift in Sources */,
+				72AA25DE299477B1008E5C94 /* Sun.swift in Sources */,
 				72C20BC4298B38AD00B1A3F0 /* ViewController.swift in Sources */,
+				72B2159829BA248F00F7C4A6 /* APODViewController.swift in Sources */,
+				72B2159D29BA425800F7C4A6 /* PhotoInfo.swift in Sources */,
 				72C20BC0298B38AD00B1A3F0 /* AppDelegate.swift in Sources */,
 				72C20BC2298B38AD00B1A3F0 /* SceneDelegate.swift in Sources */,
+				724A11D129B7CAB500E6F4A9 /* PlanetCollectionViewController.swift in Sources */,
+				72AA25E229947881008E5C94 /* Planet.swift in Sources */,
+				72AA25E029947879008E5C94 /* Quote.swift in Sources */,
+				72AA25E429947885008E5C94 /* Moon.swift in Sources */,
+				72AA25DC29946B57008E5C94 /* SunViewController.swift in Sources */,
+				724DBAF129B0365A00D2C75B /* PlanetTableViewController.swift in Sources */,
+				7274CE47299DA85100E56E3E /* Constants.swift in Sources */,
+				72B69FB229B273750006A74E /* PlanetCollectionCell.swift in Sources */,
+				72B2159A29BA3FAD00F7C4A6 /* PhotoInfoController.swift in Sources */,
+				72BEF5E629B0298500069497 /* PlanetCell.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -284,7 +388,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
-				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = dkBlue;
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
 				GENERATE_INFOPLIST_FILE = YES;
@@ -311,7 +415,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
-				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = dkBlue;
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
 				GENERATE_INFOPLIST_FILE = YES;
